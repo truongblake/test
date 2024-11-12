@@ -13,9 +13,17 @@ import bfsImage from "/images/projects/bfs-image.png";
 import decibelAlertBraceletImage from "/images/projects/decibel-alert-bracelet-image.png";
 import ohmmeterImage from "/images/projects/ohmmeter-image.png";
 import rfidPunchClockImage from "/images/projects/rfid-punch-clock-image.png";
+import chatAppImage from "/images/projects/chat-app-image.png";
 
 
 const projectsList = [
+  {
+    imgSrc: chatAppImage,
+    title: "Chat app",
+    tags: ["Web-design","Development"],
+    projectLink: "https://github.com/truongblake/chat-app",
+    githubLink: "https://github.com/truongblake/chat-app",
+  },
   {
     imgSrc: toDoListImage,
     title: "To-do app",
