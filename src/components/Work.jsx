@@ -47,7 +47,7 @@ export const EXPERIENCES = [
 
 const Work = () => {
   return (
-    <section className="section">
+    <section className="section pt-[4em] sm:pt-[8em] lg:pt-[15em]">
       <div className="container">
         <h1 className="scale-1 my-20 text-center text-4xl">Experience</h1>
         <div>

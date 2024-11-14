@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 
 const Hero = () => {
   return (
-    <section id="home" className="h-[100vh] flex items-center">
+    <section id="home" className="h-[94svh] flex items-center">
       <div className="container lg:grid lg:grid-cols-2 items-center lg:gap-10 pl-[50px]">
         <div className="pl-[25px]">
           <div className="text-2xl font-medium ">Blake Truong</div>

@@ -150,7 +150,7 @@ const Projects = () => {
   useEffect(acquireTaglist,[]);
 
   return (
-    <div id="projects" className="section mt-[10em] mb-[3em]">
+    <div id="projects" className="section pt-[4em] sm:pt-[8em] lg:pt-[15em] mb-[3em]">
       <div className="container">
         <h2 className="scale-1 text-5xl font-semibold mb-8">Projects</h2>
         {/* Filter */}

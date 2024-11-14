@@ -8,8 +8,8 @@ import ContactForm from "./ContactForm";
 
 const Contact = () => {
   return (
-    <section id="contact" className="relative px-5 md:px-0">
-      <div className="mt-[10em] max-w-7xl mx-auto">
+    <section id="contact" className="relative px-5 md:px-0 h-[95svh]">
+      <div className="pt-[4em] sm:pt-[8em] lg:pt-[15em] max-w-7xl mx-auto">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="md:w-1/2 mb-8 ml-2 md:mb-0">
             <h2 className="scale-1 text-3xl font-bold mb-3 text-white">
