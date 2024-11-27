@@ -5,7 +5,9 @@ import linkedinicon from "/src/assets/icons8-linkedin-24.png";
 const Footer = () => {
   return (
     <footer className="mt-3 py-4 relative lg:sticky bottom-0">
-      <p className="absolute bottom-5 left-[50%] -translate-x-[50%] text-sm">
+      <p>2024 Blake Truong. All rights reserved</p>
+
+      {/* <p className="absolute bottom-5 left-[50%] -translate-x-[50%] text-sm">
         2024 Blake Truong. All rights reserved
       </p>
       <a href="https://github.com/truongblake" target="_blank" rel="noopener noreferrer">
@@ -23,7 +25,7 @@ const Footer = () => {
           src={linkedinicon}
           alt=""
         />
-      </a>
+      </a> */}
     </footer>
   );
 };

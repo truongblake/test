@@ -24,7 +24,7 @@ export default function App() {
         {/* Fallback route */}
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
-      <Footer/>
+      {/* <Footer/> */}
     </div>
   );
 }
